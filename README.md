@@ -6,6 +6,7 @@ and interpretation, while also demonstrating how machine learning can support cu
 
 ## Project Structure
 
+```bash
 bank-churn-prediction/
 │
 ├── data/
@@ -17,3 +18,4 @@ bank-churn-prediction/
 │
 ├── README.md
 ├── requirements.txt
+```
