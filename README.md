@@ -3,19 +3,3 @@ This is an end-to-end machine learning project focused on predicting bank custom
 understand the main factors that influence customer attrition, and build a predictive model that can identify customers at risk of leaving. 
 This project was created to strengthen my skills in data cleaning, exploratory data analysis, feature engineering, model training, evaluation, 
 and interpretation, while also demonstrating how machine learning can support customer retention strategies in a real business context.
-
-## Project Structure
-
-```bash
-bank-churn-prediction/
-│
-├── data/
-│   ├── raw/
-│   │   └── Churn_Modelling.csv
-│
-├── notebooks/
-│   ├── 01_data_understanding.ipynb
-│
-├── README.md
-├── requirements.txt
-```
